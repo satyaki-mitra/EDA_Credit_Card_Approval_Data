@@ -21,7 +21,7 @@ This case study presents an **exploratory data analysis (EDA)** and predictive m
 5. [Data Preparation & Variable Overview](#-data-preparation--variable-overview)
 6. [Methodology](#-methodology)
 7. [Exploratory Data Analysis](#exploratory-data-analysis-eda)
-8. [Statistical Testing](#-statistical-tests)
+8. [Statistical Testing](#-statistical-testing)
 9. [Predictive Modeling](#-predictive-modeling--logistic-regression)
 10. [PCA & Dimensionality Reduction](#-dimensionality-reduction--pca-principal-component-analysis)
 11. [Clustering](#-cluster-analysis--customer-segmentation-using-k-means)
