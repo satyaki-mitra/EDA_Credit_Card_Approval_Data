@@ -497,8 +497,9 @@ To run the notebook locally:
 pip install -r requirements.txt 
 ```
 3. Launch the notebook: 
+```bash
 jupyter notebook Credit_Card_Data_Analysis_Case_Study.ipynb
-
+```
 
 ### 💻 Tested Environment
 - Python: 3.10
@@ -519,6 +520,7 @@ jupyter notebook Credit_Card_Data_Analysis_Case_Study.ipynb
 ## 🙋‍♂️ Author
 
 **Satyaki Mitra**  
+Data Scientist | ML Practitioner
 
 ---
 
