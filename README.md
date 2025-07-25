@@ -6,8 +6,9 @@
 
 > 📁 This repository includes:
 > - `Credit_Card_Data_Analysis_Case_Study.ipynb` – Full analysis notebook  
-> - `CreditCard.csv` – Cleaned dataset  
-> - `README.md` – This documentation file 
+> - `data/CreditCard.csv` – Cleaned dataset  
+> - `README.md` – This documentation file
+> - `assets/*.jpg` - All visualizations attached in README file
 
 ## 🧾 Project Summary
 
